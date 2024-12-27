@@ -1,0 +1,5 @@
+﻿  CH2_2_main.cpp
+C:\Users\C\source\repos\Sparta_CH2_1\Sparta_CH2_1\CH2_2_main.cpp(107,43): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CustomVector.cpp
+  코드를 생성하고 있습니다...
+  Sparta_CH2_1.vcxproj -> C:\Users\C\source\repos\Sparta_CH2_1\x64\Debug\Sparta_CH2_1.exe
